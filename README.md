@@ -23,9 +23,9 @@ An iOS app that texts your significant other & blinks an LED on their desk until
 
 ## Framework: 
 
-[Framework Picture}!()
+![Framework](Map3.png)
 
 ## App Design: 
 
-[Framework Picture}!()
+![App Design](Map3.png)
 
