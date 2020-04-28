@@ -1,7 +1,7 @@
 # needy_app
 An iOS app that texts your significant other & blinks an LED on their desk until they give you attention! A fun weekend project 
 
-# Goal: My wife asked me to build her an app that would get her my attetion when I am deep into work on my desk. 
+# Goal: My wife asked me to build her an app that would get her my attention when I am deep into work on my desk. 
 
 
 ### Tools & Language:
